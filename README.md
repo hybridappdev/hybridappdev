@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Syed Arshad  
-### Frontend Engineer • SaaS Builder • Design Systems Architect
+### Frontend Architect • SaaS Builder • Design Systems Builder
 
 I build **scalable SaaS platforms, financial applications, and design systems** that elevate product quality across teams.  
 My work blends **frontend engineering, UI architecture, and system design** to create fast, accessible, and maintainable user experiences.
