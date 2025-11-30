@@ -1,13 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on Ionic apps using React & Capacitor<br>👯 I’m looking to collaborate on web & mobile applications with modern JavaScript<br>🌱 I’m currently learning Next.js, Jest & GraphQL<br>💬 Ask me about Front-end, Cross-platform mobile development, Responsive web design
+# 👋 Hi, I'm Syed Arshad  
+### Frontend Engineer • SaaS Builder • Design Systems Architect
 
+I build **scalable SaaS platforms, financial applications, and design systems** that elevate product quality across teams.  
+My work blends **frontend engineering, UI architecture, and system design** to create fast, accessible, and maintainable user experiences.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedarshad.js) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadontheweb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@syedarshad.js) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5633803) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hybridappdev) 
+I focus on delivering:
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hybridappdev&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hybridappdev&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hybridappdev&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+- **Design systems** (tokens, components, architecture & governance)  
+- **Frontend platforms** using React, Angular, and micro-frontend patterns  
+- **SaaS applications** across finance, operations, and customer portals  
+- **Cross-platform mobile apps** with React Native, Ionic & Capacitor  
+- **Secure authentication flows** using Logto and modern identity standards  
+
+---
+
+## 🔧 Tech Stack
+
+### **Frontend**
+React • Angular • TypeScript • JavaScript • Recharts • SASS • RxJS  
+Design Systems • Component Libraries • Micro-frontends  
+
+### **SaaS & Identity**
+Logto • OAuth2 • JWT • RBAC • Multi-tenant architectures
+
+### **Mobile**
+Ionic • Capacitor • React Native
+
+### **Backend & APIs**
+Node.js • Express • NestJS • REST • GraphQL
+
+### **Infrastructure**
+Docker • Kubernetes • Kind • Nginx • CI/CD Pipelines
+
+### **Databases**
+PostgreSQL • MongoDB • MySQL • MariaDB • SQLite
+
+### **Cloud**
+AWS • Google Cloud • Firebase • DigitalOcean
+
+### **Testing**
+Jest • Cypress
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/arshadontheweb)  
+[Medium](https://medium.com/@syedarshad.js)  
+[StackOverflow](https://stackoverflow.com/users/5633803)  
+[Instagram](https://instagram.com/syedarshad.js)  
+[Twitter](https://twitter.com/hybridappdev)
+
