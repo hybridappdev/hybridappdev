@@ -1,6 +1,6 @@
 The interface still has to be designed.
 
-I join a platform team and own the layer other products ship on. A generated screen uses that system, or it does not ship.
+I join a platform team and own the layer other products ship on.
 
 - [primitives](https://github.com/hybridappdev/primitives) — Named tokens and six components. A screen uses them, or it is not a draft.
 - [desk](https://github.com/hybridappdev/desk) — A question becomes a dashboard only when every block comes from primitives.
